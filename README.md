@@ -1,2 +1,2 @@
 # IC555-Timer-Analysis
-[IC555 Timer Analysis.pdf](https://github.com/user-attachments/files/35502585/Mini.Project.Write.Up.5.pdf)
+[Mini Project Write Up (6).pdf](https://github.com/user-attachments/files/35502676/Mini.Project.Write.Up.6.pdf)
